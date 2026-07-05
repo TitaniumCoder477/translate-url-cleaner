@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { width: 280px; padding: 20px; font-family: system-ui, Arial, sans-serif; }
+    h2 { margin: 0 0 15px 0; font-size: 18px; }
+    button {
+      width: 100%;
+      padding: 14px;
+      font-size: 16px;
+      background: #4285f4;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    button:hover { background: #3367d6; }
+    .status { margin-top: 12px; text-align: center; font-size: 14px; min-height: 20px; }
+  </style>
+</head>
+<body>
+  <h2>Translate URL Cleaner</h2>
+  <button id="cleanCopy">Copy Cleaned URL</button>
+  <div id="status" class="status"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
