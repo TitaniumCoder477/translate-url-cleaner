@@ -45,4 +45,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 
 ---
 
-Made with ❤️ for better translation link sharing.
+Made with ❤️  using Grok for better translation link sharing.
